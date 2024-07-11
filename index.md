@@ -1,13 +1,16 @@
-# H1 Header 
-### H3 Header
-###### H6 Header
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# Hi!
+# *This is my first experience writing code in Markdown and posting it in a GitHub repository.*
+### Привет!
+### *Это мой первый опыт работы по написанию кода на Markdown и его размещения в репозитории ГитХаб.*
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)\
+**Below is the code, which is written in JavaScript.**\
+**Ниже находится код, который написан на JavaScript.**.
 ``` javascript
 var myVar = "Hello, world!";
 ```
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
-- [ ]Turn on GitHub Pages
-- [ ]Outline my portfolio
-- [ ]Introduce myself to the world
+- [x] *1 Сompleted.* *1 Завершен.*
+- [x] *2 Сompleted.* *2 Завершен.*
+- [ ] ***To be continued:)***\
+      
+- The code can be copied using the built-in tool. Код можно скопировать встроенным инструментом.
